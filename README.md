@@ -1,4 +1,4 @@
-Our ultimate goal for this Deep Learning Final Project was to utilize both the
+Our ultimate goal for this Deep Learning Project was to utilize both the
 SportVU dataset [1] which contains positional data for NBA players on a 2D plane
 for the 2015-2016 season and a Basketball-Reference statistical dataset [4], the
 corresponding players’ NBA game statistics, to determine the probability that a
